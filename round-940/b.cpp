@@ -1,6 +1,6 @@
 /*
 Author: JNIDV
-Date created:
+Date created: 2024-04-26
 
 Solution:
 Greedy start from lowest powers 2 and create the smallest integer of the form 111...111_2.

@@ -19,7 +19,6 @@ using namespace std;
 typedef long long ll;
 
 const int B = 30, N = 100000;
-
 int a[N], pre_xor[B + 1][N], suf_xor[B + 1][N], pre_cnt[B + 1][N], suf_cnt[B + 1][N];
 
 void solve() {
